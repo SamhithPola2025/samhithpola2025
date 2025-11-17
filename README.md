@@ -1,4 +1,4 @@
-# Hey there, I'm Samhith!
+# ʜᴇʏ ᴛʜᴇʀᴇ, ɪ'ᴍ ꜱᴀᴍʜɪᴛʜ!
 
 I like to code, and recently...
 
