@@ -16,4 +16,4 @@ In the 8 or so months that I've been in this community that supports teenagers c
 
 ## What do I like to program/make
 In my projects, I like to make low level/embedded stuff if I can. I love hardware projects, and Hack Club enables me to do so (I especially love PCB design)!
-In the past, I did stuff with python and very simple machine learning/training projects, but I have taken a break from that as my interests have changed (maybe you can see me give it another shot in my other projects/repositories)!
+In the past, I did stuff with Python and very simple machine learning/training projects, but I have taken a break from that as my interests have changed (maybe you can see me give it another shot in my other projects/repositories)!
