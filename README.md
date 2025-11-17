@@ -1,12 +1,12 @@
 # ʜᴇʏ ᴛʜᴇʀᴇ, ɪ'ᴍ ꜱᴀᴍʜɪᴛʜ!
 
-I like to code, and recently...
+ɪ ʟɪᴋᴇ ᴛᴏ ᴄᴏᴅᴇ, ᴀɴᴅ ʀᴇᴄᴇɴᴛʟʏ ɪ ᴍᴀᴅᴇ ꜱᴇᴠᴇʀᴀʟ ᴘʀᴏᴊᴇᴄᴛꜱ, ᴍʏ ɴᴇᴡᴇꜱᴛ ᴏɴᴇ ɪꜱ ᴀ ᴄᴘᴜ ꜱɪᴍᴜʟᴀᴛᴏʀ/ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ (ɪᴛꜱ ꜱɪᴍᴘʟᴇ ᴀɴᴅ ᴍᴏʀᴇ ꜱɪᴍᴜʟᴀᴛᴏʀ ʙᴀꜱᴇᴅ, ʙᴜᴛ ɪ ᴡɪʟʟ ᴄᴏɴᴛɪɴᴜᴇ ᴛᴏ ᴡᴏʀᴋ ᴏɴ ɪᴛ)!
 
-## Coding stats
+## 𝐂𝐨𝐝𝐢𝐧𝐠 𝐬𝐭𝐚𝐭𝐬
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1643&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon)
 
-### What/who got me into coding?
+### 𝙒𝙝𝙖𝙩/𝙬𝙝𝙤 𝙜𝙤𝙩 𝙢𝙚 𝙞𝙣𝙩𝙤 𝙘𝙤𝙙𝙞𝙣𝙜?
 
 The simple answer is [Hack Club](https://hackclub.com/). They have inspired me to code and make software projects, as well as hardware ones.  
 
